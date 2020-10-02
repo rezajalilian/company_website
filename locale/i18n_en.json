@@ -1,0 +1,85 @@
+{
+  "sign_in_out" : "log in/sign up",
+  "sign_in" : "log in",
+  "sign_out_error" : "Logout error",
+  "sign_out" : "Logout",
+  "contact_us" : "contact us",
+  "about_us" : "about us",
+  "product" : "product",
+  "home" : "home",
+  "Also_check_out" : "Also check out",
+
+  "writer" : "writer :",
+  "publishedAt" : "publishedAt :",
+
+
+  "text_1" : "I Build Things For \\nThe Android And Web.",
+  "text_2" : "I am a 3rd Year undergraduate from SRM Institute of Science and technology, Kattankulatur.I am Your friendly Neighbourhood Developer  and a Learning Enthusiast,  who is obsessed with the idea of improving himself and wants a platform to grow and excel.I Love Android Development, xD.",
+  "btn_start_text" : "Get Started",
+
+  "p_2_title" : "Just call us to get started",
+  "p_2_desc" : "All websites designed by the company have been step-by-step assessed and designed and implemented according to the customer.",
+  "p_2_sec_1_title" : "project submission",
+  "p_2_sec_2_title" : "Web design and SEO",
+  "p_2_sec_3_title" : "contact us",
+  "p_2_sec_1_desc" : "Send us your number through the contact form. Our experts will contact you as soon as possible or call our number.",
+  "p_2_sec_2_desc" : "Once your website needs or SEO assessments are done, the Riraco team will start designing or increasing your website rankings.",
+  "p_2_sec_3_desc" : "Now your web design is ready and you can take your website from us and start your own business.",
+
+  "p_3_title" : "Frequently Asked Questions",
+  "p_3_ask_1_title" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+  "p_3_ask_1_desc" : "If you are a designer or dealing with graphic designs, you have come across texts known as Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum or Lorem ipsum (English: Lorem ipsum) is a fictitious and meaningless text that is used to test fonts or fill space in a graphic design or printing industry.",
+
+
+  "p_4_title" : "Our News",
+  "p_4_desc" : "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea",
+
+
+  "p_5_title" : "Team",
+  "p_5_desc" : "Website designers are usually faced with the issue that the main content of the pages is not ready when designing the site template. As a result, the outline does not work properly",
+  "p_5_team_1" : "Walter White",
+  "p_5_team_2" : "Sarah Jhonson",
+  "p_5_team_3" : "William Anderson",
+  "p_5_team_4" : "Amanda Jepson",
+
+  "p_6_title" : "Contact us",
+  "p_6_desc" : "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea",
+  "p_6_name" : "Your Name",
+  "p_6_email" : "Your Email",
+  "p_6_massage" : "Message",
+  "p_6_btn_send" : "Send Message",
+  "p_6_error" : "This field should not be empty",
+  "p_6_location" : "Location :",
+  "p_6_location_desc" : "A108 Adam Street, New York, NY 535022",
+  "p_6_location_email" : "Email :",
+  "p_6_location_email_desc" : "info@example.com ",
+  "p_6_location_phone" : "Call :",
+  "p_6_location_phone_desc" : "+1 5589 55488 55s",
+
+
+
+  "footer_aboute" : "About us",
+    "footer_aboute_1" : "Contact us",
+    "footer_aboute_2" : "Work with us",
+    "footer_aboute_3" : "Managers",
+
+  "footer_help" : "Our Services",
+    "footer_help_1" : "Web Design",
+    "footer_help_2" : "Web Development",
+    "footer_help_3" : "Marketing",
+
+  "footer_social" : "Social Networks",
+    "footer_social_1" : "Twitter",
+    "footer_social_2" : "Facebook",
+    "footer_social_3" : "Instagram",
+
+  "footer_email_lable" : "email  ",
+  "footer_email" : "example@gmail.com",
+  "footer_address_lable" : "address  ",
+  "footer_address" : "A108 Adam Street\nNew York, NY 535022\nUnited States",
+
+
+  "error_404_title": "UH OH! You lost.",
+  "error_404_desc": "The page you are looking for does not exist. How you got here is a mystery. But you can click the button below to go back to the homepage.",
+  "error_404_btn": "Home Page"
+}
